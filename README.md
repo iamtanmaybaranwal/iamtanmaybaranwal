@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/iamtanmaybaranwal/iamtanmaybaranwal/main/banner.png)
+![banner](https://raw.githubusercontent.com/iamtanmaybaranwal/iamtanmaybaranwal/main/tanmay.png)
 
 # 👩‍💻 About Me
 
