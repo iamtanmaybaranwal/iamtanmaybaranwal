@@ -1,15 +1,11 @@
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake-dark.svg">
-    
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg">
-    
-    <!-- Fallback -->
-    <img alt="github contribution snake" 
-         src="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg">
+    <img src="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake-dark.svg">
+    <img src="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake-dark.svg" />
+  </a>
 </p>
