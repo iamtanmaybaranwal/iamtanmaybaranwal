@@ -1,3 +1,5 @@
+<img src="tanmay.png" alt="GitHub Banner" width="100%" />
+
 # 👩‍💻 About Me
 
 - 🎓 BSc in Computer Science and Data Analytics, Indian Institute of Technology, Patna (CPI: 7.8/7.4/8.4)
