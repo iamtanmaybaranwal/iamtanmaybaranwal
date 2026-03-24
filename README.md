@@ -1,4 +1,4 @@
-<img src="tanmay.png" alt="GitHub Banner" width="100%" />
+![banner](https://raw.githubusercontent.com/iamtanmaybaranwal/iamtanmaybaranwal/main/banner.png)
 
 # 👩‍💻 About Me
 
