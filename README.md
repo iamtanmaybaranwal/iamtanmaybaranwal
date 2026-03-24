@@ -1,11 +1,14 @@
-<p align="center">
-  <a href="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg">
-    <img src="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake-dark.svg">
-    <img src="https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake-dark.svg" />
-  </a>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake.svg"
+  />
+</picture>
