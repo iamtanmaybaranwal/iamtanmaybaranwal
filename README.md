@@ -1,6 +1,4 @@
-# Hi there 👋
-
-Welcome to my profile!
+![snake gif](https://iamtanmaybaranwal.github.io/iamtanmaybaranwal/github-contribution-grid-snake.svg)
 <!--
 **iamtanmaybaranwal/iamtanmaybaranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
