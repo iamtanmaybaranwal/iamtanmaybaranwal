@@ -76,12 +76,6 @@
 
 <br>
 
-# 📫 Get in Touch
-
-- 📧 Email: baranwaltanmay16@gmail.com
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iamtanmaybaranwal/)
-<br>
 
 <picture>
   <source
@@ -97,3 +91,12 @@
     src="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake.svg"
   />
 </picture>
+
+<br>
+
+# 📫 Get in Touch
+
+- 📧 Email: baranwaltanmay16@gmail.com
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/iamtanmaybaranwal/)
+<br>
