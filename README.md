@@ -1,4 +1,3 @@
-[![banner](https://raw.githubusercontent.com/iamtanmaybaranwal/iamtanmaybaranwal/main/tanmay.png)](https://github.com/iamtanmaybaranwal)
 # 👩‍💻 About Me
 
 - 🎓 BSc in Computer Science and Data Analytics, Indian Institute of Technology, Patna (CPI: 7.8/7.4/8.4)
