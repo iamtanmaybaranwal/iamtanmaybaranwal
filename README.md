@@ -1,4 +1,6 @@
-[![banner](https://raw.githubusercontent.com/iamtanmaybaranwal/iamtanmaybaranwal/main/tanmay.png)](https://github.com/iamtanmaybaranwal)
+<p align="center">
+  <img src="./tanmay.png" alt="Banner" />
+</p>
 
 # 👩‍💻 About Me
 
