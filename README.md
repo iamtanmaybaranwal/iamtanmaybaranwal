@@ -2,13 +2,6 @@
   <img src="./tanmay.png" alt="Banner" />
 </p>
 
-# 👩‍💻 About Me
-
-- 🎓 BSc in Computer Science and Data Analytics, Indian Institute of Technology, Patna (CPI: 7.8/7.4/8.4)
-- 🎓 BTech in Computer Science and Engineering, Sheat College of Engineering, Varanasi (CGPA: 7.6/7.2/7.3/6.8/7.5)
-
-  <br>
-
 <!-- <h2 align="left">⚡ Tech Stack</h2> -->
 # 💻 Tech Stack:
 ###
